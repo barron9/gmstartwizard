@@ -1,0 +1,48 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    coreApp="true"
+    package="com.android.gmsetupwizard"
+    android:sharedUserId="android.uid.system"
+    android:versionCode="1"
+    android:versionName="1.0.0" >
+
+    <uses-permission android:name="com.google.android.apps.now.OPT_IN_WIZARD" />
+    <uses-permission android:name="android.permission.READ_SMS" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission
+        android:name="android.permission.RECEIVE_SMS"
+        android:protectionLevel="signature" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <application
+        android:label="@string/app_name">
+        <receiver android:name=".PartnerReceiver" >
+            <intent-filter>
+                <action android:name="com.android.setupwizard.action.PARTNER_CUSTOMIZATION" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name=".OpaWrapper"
+            android:theme="@style/SuwThemeGlif.Light" >
+            <intent-filter>
+                <action android:name="com.google.android.setupwizard.OPA_OPT_IN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Welcome.GMWelcome"
+            android:priority="10" 
+	    android:theme="@style/SuwThemeGlif.Light">
+            <intent-filter>
+                <action android:name="com.android.gmsetupwizard.GM_WELCOME" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+    </application>
+
+</manifest>

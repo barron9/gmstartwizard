@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?> <!-- Copyright (C) 2017 Google Inc. All Rights Reserved. -->
+
+<resources>
+
+    <string name="deneme">Bir saniye bekle\u2026</string>
+    <string name="wizard_script_uri">android.resource://com.android.gmsetupwizard/raw/wizard_script</string>
+    <string name="header_text">Sayfa Başlığı</string>
+    <string name="header_policy">BIP Kullanıcı Sözleşmesi</string>
+    <string name="name">Adınız</string>
+    <string name="surname">Soyadınız</string>
+    <string name="camera">Kamera</string>
+    <string name="approved">Kabul Ediyorum</string>
+    <string name="phone_header">Telefon Numaranızı giriniz</string>
+    <string name="activation_header">SMS ile gelen 5 haneli kodu giriniz</string>
+    <string name="bip_confirmation">Kayıt</string>
+    <string name="bip_activation">SMS Aktivasyonu</string>
+    <string name="region">+90</string>
+    <string name="phone_hint">Telefon Numaranızı Giriniz</string>
+    <string name="code_hint">Kod</string>
+    <string name="sms_activation_content">Telefon numaranızı doğrulamak\niçin size 5 haneli doğrulama kodu\ngöndereceğiz</string>
+    <string name="verification_content">Uygulamayı kullanmaya başlamak için, size SMS ile göndereceğimiz BIP şifresini boş kutuya yazabilirsiniz.</string>
+    <string name="verification_phone">Doğrulama kodunuz, %1$s telefon numaranıza <b>%2$d saniye</b> içinde ulaşacaktır.</string>
+    <string name="code_cannot_reach">Kodunuz ulaşmadı mı?</string>
+    <string name="resend"><u>Tekrar gönderin</u></string>
+    <string name="or">veya</string>
+    <string name="change_number"><u>telefon numaranızı değiştirin.</u></string>
+    <string name="tile_service">Lifecell</string>
+    <string name="welcome_title">BİP\'e Hoşgeldin!</string>
+    <string name="welcome_content">BiP\'in eğlenceli dünyasına katılmak için \'Kabul Et ve Devam Et\'e dokunun.</string>
+    <string name="privacy_link"><u>Kullanım Koşulları ve\nVeri Koruma Politikası</u></string>
+    <string name="agreement">Sözleşme</string>
+    <string name="agree_continue">Kabul et ve devam et</string>
+    <string name="app_name">Lifecell</string>
+    <string name="secret_info"><font color='#9D9DAB'>BiP\'i kullanarak</font><u><font color='#069FE6'> gizlilik sözleşmesi ve kullanım şartlarını </font></u><font color='#9D9DAB'>kabul etmiş sayılırsınız</font> </string>
+    <string name="pass"><u>Geç</u></string>
+    <string name="bottom_bar_title">Gizlilik Sözleşmesi ve Kullanım Şartları</string>
+    <string name="bottom_bar_go_on">Devam Et</string>
+    <string name="accept_and_continue">Kabul et ve Devam Et</string> 
+    <string name="help_improve"><b>Help improve your General Mobile’s performance.</b> This will allow the sending of automatic diagnostics and anonymous usage data.</string>
+    <string name="more_information"><u>More information.</u></string>
+    <string name="please_note"><b>Please note that General Mobile may send push notifications about General Mobile products to your device and this notifications may include advertisements.</b> If you wish to receive notifications , please tick this box. Please be informed that you may also  request the cancellation of receiving these notifications  at any time by sending an e-mail to privacy@generalmobile.com, including your device’s serial number and the following message: “cancel Notifications for my device”.</string>
+    <string name="if_you_do_not">If you do not wish to receive notifications , please tick this box. Please be informed that you may also  request the cancellation of receiving these notifications  at any time by sending an e-mail to privacy@generalmobile.com, including your device’s serial number and the following message: “cancel Notifications for my device”.</string>
+    <string name="with_the_aim">General Mobile stores your personal information for as long as necessary to meet the purposes outlined in this Privacy Policy. In addition to the information you already shared, General Mobile can use your device\'s software to send information such as device information, location information, Google account, email address for offers and promotions. If you agree with the collection of the above data, enable this option.</string>
+    <string name="this_information">This information will be treated as strictly confidential and under no circumstances shall it be used to identify the User. This information enables us to identify and correct any errors and, by default, improve your experience when using your General Mobile device.</string>
+    <string name="general_mobile_services_help">General Mobile Services help us improve the performance of your devices with software updates.. We aim to make your life easier by offering inspiring and impressive experiences. It is our priority to protect your privacy and your personal information.</string>
+    <string name="general_mobile_services">General Mobile Services</string>
+    <string name="privacy_policy_text"><u>Privacy Policy</u></string>
+    <string name="privacy_policy_header">General Mobile Privacy Policy</string>
+    <string name="privacy_policy">General Mobile is aware of how important your private life and the privacy of your personal data is for you. Therefore, we would like to inform you pursuant to the “Law on the Protection of Personal Data” No. 6698 and other relevant legislation. In this context, we prepared this Privacy Policy for you regarding how we collect, disclose, use, transfer and process your information.
+
+Please do not send or provide any personal data to General Mobile before reading and understanding this Privacy Policy text extensively and before you accept it.
+
+We especially would like to state that as General Mobile, we are committed to protect your personal data for compliance with the relevant legislation and ensure your data safety and that we will do our best on these matters. Thus, depending on personal data collection principles specified below, we undertake to exercise the due diligence and all our effort in storing all kinds of information to be collected with strict security and confidentiality measures taken by our team.
+
+Scope of the Privacy Policy
+
+Please note that this Privacy Policy applies to consumer electronic products, phones, smart phones, software of General Mobile and the related websites and related services.
+
+However, please remember that this Privacy Policy will not be available for the General Mobile websites, services and products where this policy cannot be displayed and/or its link is not available or which has its own privacy policy.
+
+Under this policy, how your personal data is processed by General Mobile and the importance given to the privacy of your personal data by General Mobile are explained. However, one policy may not be sufficiently comprehensive to answer all the problems and your questions associated with the use of data. Therefore, General Mobile may provide an additional information specific for a product or service in addition to this policy in order to inform you constantly about new developments on the other data usage purposes.
+
+The way we use personal information and our goals; We would like to highlight that we process the collected personal data only for the purposes clearly defined below by minimizing the processing of personal data and we keep this data only up to the time necessary for the purposes specified below, on the other hand, we intend to offer you the highest quality service and the opportunities better than the other. Our purposes of processing personal information may be listed as follows;
+
+-   To create accounts and purchase or register products and services
+
+We may ask you to provide information such as e-mail address, delivery address, phone number, product information, the time of purchase and payment methods for reasons such as to create an account, to purchase our products or our services, to process the purchase orders from you while sending our online requests to sign up for these, to offer our valuable users the products and services, to enable or to verify our products, to make changes to your request, for technical support or to provide authorized updates.
+
+-   To participate in the promotion or market research
+
+Upon receipt of your approval, we may ask you to provide information such as your phone number and e-mail address to contact with you within your consent and to inform you on the products and services that you may be interested in or to invite you to the General Mobile\'s promotions and market researches. However, we also would like to remind you that you can always request General Mobile not to use your personal information for promotions and market researches. For this purpose, send an e-mail to privacy@generalmobile.com and contact us on this issue.
+
+-   Update
+
+General Mobile may collect system and application data from your devices to notify you of the existing system or application updates. This kind of information may include the name of your device, system and application versions, region and language settings, device identification numbers (IMEI) and network ID of your service provider. General Mobile will use such information only to inform you about system or application updates.
+
+-   Troubleshooting
+
+If your device or application encounters any error you can choose to send the error information services to General Mobile so that General Mobile can share with you the troubleshooting services related with the problem. General Mobile may collect information that may be related to the problem such as your device\'s model, application name and version, device identification numbers and error logs.
+
+-   Synchronizing, sharing and storing the data
+
+Some of the services provided by the General Mobile allows you to synchronize, share and store data. General Mobile may collect and record the data you have uploaded and downloaded and the data required to implement the upload or download procedures.
+
+-   Location-based services
+
+General Mobile collects the location information so as that the user names will not be clear to provide location-based products and services, to provide the nearest dealers, technical services to your service and to improve them.
+
+-   Information about General Mobile branded products and/or services
+
+Your personal data can be saved on our system in order to inform you, our valued customers, on the General Mobile branded products and/or services, enable you to benefit from these services/products and take advantage of the opportunities and to enable the sale of these products/services as General Mobile family.
+
+Collection and use of non-personal information “Non-personal information” refers to information that cannot be used to identify a particular person. General Mobile may collect mass statistical data such as the number of visitors to our website. General Mobile collects this kind of information to understand who uses our website, our products and our services. Thus, General Mobile can improve and modernize our services to better meet the needs of our customers. General Mobile may collect, use, transfer or may disclose non-personal information for other purposes in its sole discretion.
+
+However, we would like to remind that although we show the maximum effort possible to protect your personal data please note that no security measure is 100% perfect or impenetrable.
+
+How can you contact with General Mobile
+
+If you have any questions, comments or suggestions relating to the privacy policy, please send them in any of our offices available globally. Please visit http://www.generalmobile.com/ for a full list of our offices. Also, you can contact us on this issue by sending an e-mail to privacy@generalmobile.com.
+
+General Mobile and Your Personal Data
+
+Finally, we would like to remind you the following important points regarding the processing of your personal data; Our users agree and declare that the personal data which they have shared with this “GM Services” membership they will use may be processed by General Mobile for a period of 5 years to fulfill the rights and obligations of the parties pursuant to this membership and to transfer the General Mobile branded product, service and/or opportunities to the user and for the above-mentioned reasons and they have a clear consent on this matter within the framework of Law No. 6698 on the Protection of Personal Data and they have been informed under this article.
+
+Again, the user agrees and declares that he/she has a clear consent regarding that these personal data can be transferred by General Mobile to Telpa Teknoloji Hizmetleri A.Ş., Doğa Bilişim ve Postagüvercini (Figen Yazılım Evi Tic. Ltd. Şti.) with the purposes stated above and on condition to adhere to the duration.
+
+Additionally, the user always has the right to learn whether a personal data is processed relating to himself/herself; if his/her personal data is processed, to request details on this; to learn the purpose of processing the personal data and whether they are being used in accordance with their purposes; to know the third persons domestically and abroad to whom the personal data is transferred; if the personal data is processed as missing and incorrectly, to request correction of these; in case of elimination of the reasons that require processing of these data, to request deletion or removal of the personal data; to request communication of this correction and deletion requests to the third parties; to object to the emergence of a result against himself/herself by the analysis of the processed data with automatic systems exclusively; to request indemnification of his/her losses in case that the personal data is processed against the law.
+
+Also, the user declares that the personal data shared/to be shared within the scope of this membership is correct and up-to-date and in case of a change in these information, he/she will report the changes to General Mobile.
+
+I have read, understood and accept.
+
+Note: Because it is adapted to the local laws and the language used, this Privacy Policy may differ from its general English version. This document sets a precedent for any difference and all the differences between itself and its general English version.
+
+Latest update: January 24th, 2018
+
+Copyright © General Mobile. All rights are reserved.</string>
+
+</resources>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2017 Google Inc. All Rights Reserved. -->
+
+<resources>
+
+ <string name="deneme">Bir saniye bekle\u2026</string>
+    <string name="wizard_script_uri">android.resource://com.android.gmsetupwizard/raw/wizard_script</string>
+
+    <string name="help_improve"><b>Cihazınızın performansını artırmaya yardımcı olun.</b> Uygulama hata verilerine ulaşımı ve teşhis edilmesine izin verecektir.</string>
+    <string name="more_information"><u>Daha fazla bilgi.</u></string>
+    <string name="please_note"><b>General Mobile\'ın ürünleriyle ilgili bildirimler gönderebileceğini ve bu bildirimlerin reklam içerebileceğini bildiririz.</b>  Sözü edilen bildirimleri almak istiyorsanız, bu kutuyu işaretleyin. gizlilik@generalmobile.com adresine, cihazınızın seri numarası ve "Cihazım için reklamı iptal et" mesajı da dahil olmak üzere bir e-posta göndererek, söz konusu gönderimlerin iptalini talep edebilirsiniz.</string>
+    <string name="if_you_do_not"></string>
+    <string name="with_the_aim">General Mobile, kişisel bilgilerinizi, bu Gizlilik Politikası\'nda özetlenen amaçları yerine getirmek üzere gerekli olan süre boyunca saklı tutar. Sunduğunuz bilgilere ek olarak cihazınızdaki yazılımlar aracılığıyla, General Mobile, cihaz bilgileri, konum bilgileri, Google hesabı gibi bilgileri, e-posta adresini teklifler ve promosyonlar göndermek için kullanabilir. Yukarıda belirtilen verilerin toplanmasını kabul ediyorsanız, bu seçeneği etkinleştirin.</string>
+    <string name="this_information">Bu bilgiler kesinlikle gizli olarak ele alınacak ve hiçbir şekilde kullanmayacaktır. Bu bilgiler, hataları tanımlamamızı ve düzeltmemizi sağlar. Ayrıca cihazınızı kullanırken daha iyi bir performans elde etmenizi sağlar.</string>
+    <string name="general_mobile_services_help">General Mobile Servisleri, yayınlanan güncellemeler ile cihazınızın performansının artmasını ve optimize edilmesini sağlar.  İlham verici ve etkileyici deneyimler sunarak hayatınızı kolaylaştırmayı hedefliyoruz. Güvenliğiniz ve kişisel bilgilerinizi korumak önceliğimizdir.</string>
+    <string name="general_mobile_services">General Mobile Servisleri</string>
+
+	<string name="privacy_policy_text"><u>Gizlilik Politikası</u></string>
+    <string name="privacy_policy_header">General Mobile Gizlilik Sözleşmesi</string>
+    <string name="privacy_policy">Sayın Kullanıcılarımız,
+
+General Mobile özel hayatınızın ve kişisel verilerinizin gizliliğinin sizin açınızdan ne kadar önemli olduğunun bilincindedir. Bu yüzden 6698 Sayılı “Kişisel Verilerin Korunması Kanunu” ve ilgili diğer yasal mevzuat gereğince sizleri bilgilendirmek istedik. Bu çerçevede, bilgilerinizi nasıl topladığımıza, ifşa ettiğimize, kullandığımıza, aktardığmıza ve işlediğimize ilişkin size bu Gizlilik Politikasını hazırladık.
+
+Bu Gizlilik Politikası metnini kapsamlı biçimde okuyup, anlayıp, kabul etmeden önce lütfen General Mobile\'ye hiçbir kişisel veri göndermeyin veya sağlamayın.
+
+Öncelikle şu hususu belirtmek isteriz ki; General Mobile olarak, ilgili mevzuatlara riayet edilmesine dair kişisel verilerinizin korunacağını ve ayrıca veri güvenliğinizi sağlanacağını ve bu hususlarda elimizden gelenin en iyisini yapacağımızı taahhüt ederiz. Böylelikle, aşağıda belirtilen kişisel veri toplama ilkelerine bağlı olarak, tüm gayretimizi, toplanacak olan her türlü bilgiyi ekibimizce alınan sıkı güvenlik ve gizlilik önlemleri ile saklama hususunda gerekli özeni göstereceğimizi taahhüt ederiz.
+
+Gizlilik Politikasının Kapsamı
+
+Bu Gizlilik Politikası’nın General Mobile\'ye ait tüketici elektronik ürünleri, telefonlar, akıllı telefonlar, yazılımlar, ilgili web siteleri ve ilgili servisler için geçerli olduğunu lütfen unutmayın.
+
+Bununla birlikte şu hususu size hatırlatalım ki; bu Gizlilik Politikası, bu Politika’nın görüntülenemediği ve/veya bağlantısının mevcut olmadığı ya da kendi gizlilik politikası olan General Mobile websiteleri, servisleri ve ürünleri için geçerli olamayacaktır.
+
+Bu Politika kapsamında, kişisel verilerinizin General Mobile tarafından nasıl işlendiği ve General Mobile’nin kişisel verilerinizin gizliliğine verilen önem açıklanmaktadır. Bununla birlikte, tek bir politika, verilerin kullanımıyla ilgili tüm sorunlara ve sorularınıza yanıt verecek düzeyde kapsamlı olmayabilir. Bu nedenle General Mobile diğer veri kullanım amaçlarıyla ilgili yeni gelişmeler hakkında sizi sürekli olarak bilgilendirmek için bu Politika’ya bir ek olarak ürün veya hizmete özel ilave bilgiler sağlayabilir.
+
+Kişisel bilgileri kullanma şeklimiz ve amaçlarımız; Şu hususun altını çizmek isteriz ki; kişisel veri işlenmesi işlemini en aza indirgeyerek, toplanan kişisel verileri sadece aşağıda açıkça belirlenen amaçlarla işlemekte ve bu verileri sadece aşağıda belirlenen amaçlar için gerekli olan süre kadar tutmakta, öte yandan size en kaliteli hizmeti ve birbirinden güzel fırsatları sunmayı amaçlamaktayız. Kişisel bilgileri işleme amaçlarımızı şu şekilde sıralayabiliriz;
+
+-           Hesaplar oluşturmak ve ürün ve hizmetleri satın almak veya kaydetmek
+
+Bir hesap oluşturmak, ürünlerimizi yahut hizmetlerimizi satın almak, bunlara kaydolmak üzere çevrimiçi taleplerimizi gönderirken sizden gelen satın alma siparişlerini uygulamak, ürün ve servisleri siz değerli kullanıcılarımıza sunmak, ürünlerimizi etkinleştirmek veya doğrulamak, talebinizde değişiklikler yapmak, teknik destek veya izin verilmiş güncellemeleri sağlamak gibi sebepler için e-posta adresi, teslimat adresi, telefon numarası, ürün bilgileri, satın alma zamanı ve ödeme yöntemi gibi bilgileri sunmanızı isteyebiliriz.
+
+-           Tanıtımlara veya pazar araştırmalarına katılmak
+
+Onayınız alındıktan sonra sizinle rızanız dahilinde temas kurmak ve ilgilenebileceğiniz ürün ve hizmetler konusunda sizi bilgilendirmek veya General Mobile\'nin tanıtımları ve pazar araştırmalarına davet etmek için sizden telefon numaranız ve e-posta adresiniz gibi bilgilerinizi vermenizi isteyebiliriz. Bununla birlikte şu hususu da sizlere hatırlatmak isteriz ki General Mobile\'den her zaman kişisel bilgilerinizi tanıtımlar ve pazar araştırmaları için kullanmaması talebinde bulunabilirsiniz. Bu amaçla gizlilik@generalmobile.com  adresine bir e-posta göndererek bu konuda bizimle temas kurun.
+
+-           Güncelleme
+
+General Mobile sizi mevcut sistem veya uygulama güncellemeleri konusunda bilgilendirmek için cihazlarınızdan sistem ve uygulama verilerini toplayabilir. Bu tür bilgiler, cihazınızın adı, sistem ve uygulama sürümleri, bölge ve dil ayarları, cihaz tanımlama numaraları (IMEI) ve servis sağlayıcınızın ağ ID\'sini içerebilir. General Mobile bu tür bilgileri sadece sizi sistem veya uygulama güncellemeleri hakkında bilgilendirmek amacıyla kullanır.
+
+-           Sorun giderme
+
+Cihazınız veya uygulama herhangi bir hatayla karşılaşırsa General Mobile sorunla ilgili arıza giderme hizmetlerini sizinle paylaşabilmesi için hata bilgilerini General Mobile\'ye göndermeyi seçebilirsiniz. General Mobile cihazınızın modeli, uygulama adı ve sürümü, cihaz tanımlama numarası ve hata kayıtları gibi sorunla ilgili olabilecek bilgileri toplayabilir.
+
+-           Verileri senkronize etme, paylaşma ve saklama
+
+General Mobile tarafından sağlanan servislerin bazıları verileri senkronize etmenizi, paylaşmanızı ve saklamanızı sağlar. General Mobile karşıya yüklediğiniz veya karşıdan indirdiğiniz verileri ve yükleme ve indirme işlemlerini uygulamak için gerekli olan verileri toplayabilir ve kaydedebilir.
+
+-           Konum bazlı servisler
+
+General Mobile konum bazlı ürün ve servisler sağlamak, en yakın bayi, teknik servisleri hizmetinize sunmak, bunları geliştirmek için konum bilgilerini kullanıcıların isimleri belli olmayacak şekilde toplar.
+
+-           General Mobile marka ürün ve/veya hizmetler hakkında bilgilendirme
+
+General Mobile ailesi olarak siz değerli müşterilerimize, General Mobile marka ürün ve/veya hizmetlere ilişkin bilgilendirmede bulunma, sizlerin bu hizmetlerden/ürünlerden yararlanmasını ve fırsatlardan faydalanmasını sağlamak, bu ürünlerin ve/veya hizmetlerin satışını sağlamak amacıyla, kişisel verileriniz sistemimize kaydedilebilir.
+
+Kişisel olmayan bilgilerin toplanması ve kullanılması "Kişisel olmayan bilgiler" belirli bir kişiyi tanımlamak için kullanılamayacak bilgileri ifade eder. General Mobile web sitemizi ziyaret edenlerin sayısı gibi yığınsal istatistiksel verileri toplayabilir. General Mobile bu tür bilgileri web sitemizi, ürünlerimizi ve hizmetlerimizi kimlerin kullandığını anlamak için toplar. Böylece General Mobile hizmetlerimizi müşterilerimizin gereksinimlerini daha iyi karşılayacak şekilde geliştirebilir ve modernize edebilir. General Mobile, kişisel olmayan bilgileri, diğer amaçlar için kendi takdirine bağlı olarak toplayabilir, kullanabilir, aktarabilir ya da ifşa edebilir.
+
+ 
+
+Bununla birlikte şu hususu da hatırlatmak isteriz ki; biz kişisel verilerinizi korumak için mümkün olan en yüksek çabayı göstersek de hiç bir güvenlik önleminin %100 düzeyde kusursuz veya aşılamaz olmadığını unutmayın.
+
+General Mobile ile nasıl temas kurabilirsiniz Gizlilik politikası kapsamında herhangi bir sorunuz, yorumunuz veya öneriniz varsa lütfen bunları küresel çapta mevcut olan saha ofislerimizden herhangi birisine gönderin. Ofislerimizin konumlarının tam listesi için lütfen  http://www.generalmobile.com/  adresini ziyaret edin. Ayrıca gizlilik@generalmobile.com adresine e-posta göndererek de bu konuda bizimle temas kurabilirsiniz.
+
+General Mobile ve Kişisel Verileriniz
+
+Kişisel verilerinizin işlenmesi hususunda son olarak şu mühim noktaları da sizleri hatırlatmak isteriz; Kullanıcılarımız, kullanacakları işbu “GM Servis” üyeliği paylaşmış olduğu/paylaşacağı kişisel verilerinin, General Mobile tarafından, tarafların işbu üyelik uyarınca hak ve borçlarının yerine getirilmesi ve General Mobile tarafından sunulan General Mobile marka ürün, hizmet ve/veya fırsatların kullanıcıya iletilmesi ve yukarıda belirtilen amaçlarla 5 yıl süreyle işlenebileceğini, bu hususta 6698 sayılı Kişisel Verilerin Korunması Hakkında Kanun çerçevesinde açıkça rızasının olduğunu ve işbu madde kapsamında bilgilendirildiğini kabul ve beyan eder.
+
+Yine Kullanıcı, işbu kişisel verilerinin, General Mobile tarafından Telpa Teknoloji Hizmetleri A.Ş., Doğa Bilişim ve  Postagüvercini’ne (Figen Yazılım Evi Tic. Ltd. Şti.) yukarıda belirtilen amaçlarla ve süreyle bağlı olmak kaydıyla aktarılabileceği hususunda açıkça rızasının olduğunu kabul ve beyan eder.
+
+Bununla birlikte kullanıcı her zaman, General Mobile’ye başvurarak kendisiyle ilgili; kişisel veri işlenip işlenmediğini öğrenme, kişisel verileri işlenmişse buna ilişkin bilgi talep etme, kişisel verilerin işlenme amacını ve bunların amacına uygun kullanılıp kullanılmadığını öğrenme, yurt içinde veya yurt dışında kişisel verilerin aktarıldığı üçüncü kişileri bilme, kişisel verilerin eksik veya yanlış işlenmiş olması hâlinde bunların düzeltilmesini isteme, işbu verilerin işlenmesini gerektiren sebeplerin ortadan kalkması hâlinde kişisel verilerin silinmesini veya yok edilmesini isteme, bu düzeltme ve silinme taleplerinin kişisel verilerin aktarıldığı üçüncü kişilere bildirilmesini isteme, işlenen verilerin münhasıran otomatik sistemler vasıtasıyla analiz edilmesi suretiyle kişinin kendisi aleyhine bir sonucun ortaya çıkmasına itiraz etme, kişise verilerin kanuna aykırı olarak işlenmesi sebebiyle zarara uğraması hâlinde zararın giderilmesini talep etme hakkına sahiptir.
+
+Ayrıca Kullanıcı işbu üyelik kapsamında paylaşılmış/paylaşılacak kişisel verilerin doğru ve güncel olduğunu; işbu bilgilerde değişiklik olması halinde değişiklikleri General Mobile’ye bildireceğini kabul ve beyan eder.
+
+Okudum, anladım, kabul ediyorum.
+
+Not: Yerel yasalara ve kullanılan lisana uyarlandığından, bu Gizlilik İlkesi genel İngilizce versiyonundan farklı olabilir. Bu doküman, kendisi ve genel İngilizce versiyonu arasındaki herhangi bir fark veya tüm farklar için emsal teşkil eder.
+
+Son güncelleme: 24 Ocak 2018
+
+Telif Hakkı © General Mobile. Tüm hakları saklıdır.</string>
+
+</resources>
