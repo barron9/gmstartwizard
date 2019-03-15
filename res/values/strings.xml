@@ -30,7 +30,7 @@
     <string name="privacy_link"><u>Kullanım Koşulları ve\nVeri Koruma Politikası</u></string>
     <string name="agreement">Sözleşme</string>
     <string name="agree_continue">Kabul et ve devam et</string>
-    <string name="app_name">Lifecell</string>
+    <string name="app_name">GeneralMobile</string>
     <string name="secret_info"><font color='#9D9DAB'>BiP\'i kullanarak</font><u><font color='#069FE6'> gizlilik sözleşmesi ve kullanım şartlarını </font></u><font color='#9D9DAB'>kabul etmiş sayılırsınız</font> </string>
     <string name="pass"><u>Geç</u></string>
     <string name="bottom_bar_title">Gizlilik Sözleşmesi ve Kullanım Şartları</string>

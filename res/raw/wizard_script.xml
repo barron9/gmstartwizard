@@ -40,13 +40,13 @@
         <result wizard:action="gm_welcome" />
     </WizardAction>
 
-    <!-- GM Welcome Flow -->
+    <!-- GM Welcome Flow
     <WizardAction
         id="gm_welcome"
         wizard:uri="intent:#Intent;action=com.android.gmsetupwizard.GM_WELCOME;end" >
         <result wizard:action="carrier_setup" />
     </WizardAction>
-	
+-->	
 
     <!--
         Check carrier setup status (Nova).
@@ -116,11 +116,20 @@
         <result wizard:action="oem_post_setup" />
     </WizardAction>
 
+   <WizardAction
+        id="gm_welcome"
+        wizard:uri="intent:#Intent;action=com.android.gmsetupwizard.GM_WELCOME;end" >
+        <result wizard:action="oem_post_setup" />
+    </WizardAction>
+
     <!-- OEM completion -->
     <WizardAction id="oem_post_setup"
         wizard:uri="intent:#Intent;action=com.android.setupwizard.OEM_POST_SETUP;end">
         <result wizard:action="exit" />
     </WizardAction>
+
+
+
 
     <WizardAction id="exit"
         wizard:uri="intent:#Intent;action=com.android.setupwizard.EXIT;end" />
